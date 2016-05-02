@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LevelColliders.unity
+  isLoaded: 1
+  isActive: 1

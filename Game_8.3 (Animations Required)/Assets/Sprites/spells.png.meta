@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 78d35bba2fba68649a84b3e726587ba8
+timeCreated: 1460748481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spells_0
+    21300002: spells_1
+    21300004: spells_2
+    21300006: spells_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spells_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 66
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 36}
+        - {x: -63, y: 10}
+        - {x: -63, y: -8}
+        - {x: 3, y: -36}
+        - {x: 49, y: -36}
+        - {x: 63, y: -27}
+        - {x: 63, y: 15}
+        - {x: 54, y: 36}
+    - name: spells_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 96}
+        - {x: -47, y: 96}
+        - {x: -91, y: 64}
+        - {x: -96, y: 46}
+        - {x: -96, y: -48}
+        - {x: -53, y: -96}
+        - {x: 41, y: -96}
+        - {x: 52, y: -95}
+        - {x: 84, y: -59}
+        - {x: 96, y: -45}
+        - {x: 96, y: 54}
+    - name: spells_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 57
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 57}
+        - {x: -8, y: 46}
+        - {x: -20, y: 10}
+        - {x: -50, y: 10}
+        - {x: -66, y: -28}
+        - {x: -66, y: -57}
+        - {x: 66, y: -57}
+        - {x: 66, y: 27}
+        - {x: 45, y: 57}
+    - name: spells_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 171
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -56.5}
+        - {x: 32.5, y: -43.5}
+        - {x: 36.5, y: -33.5}
+        - {x: 66.5, y: -13.5}
+        - {x: 67.5, y: -3.5}
+        - {x: 64.5, y: -2.5}
+        - {x: 55.5, y: -2.5}
+        - {x: 53.5, y: -3.5}
+        - {x: 43.5, y: -5.5}
+        - {x: 41.5, y: -6.5}
+        - {x: 30.5, y: -3.5}
+        - {x: 52.5, y: -3.5}
+        - {x: 54.5, y: -0.5}
+        - {x: 83.5, y: -4.5}
+        - {x: 85.5, y: 1.5}
+        - {x: 85.5, y: 16.5}
+        - {x: 70.5, y: 12.5}
+        - {x: 68.5, y: 11.5}
+        - {x: 48.5, y: 9.5}
+        - {x: 66.5, y: 12.5}
+        - {x: 76.5, y: 15.5}
+        - {x: 85.5, y: 37.5}
+        - {x: 85.5, y: 88.5}
+        - {x: -7.5, y: 88.5}
+        - {x: -85.5, y: 1.5}
+        - {x: -85.5, y: -20.5}
+        - {x: -78.5, y: -31.5}
+        - {x: 12.5, y: -79.5}
+        - {x: 39.5, y: -88.5}
+        - {x: 78.5, y: -88.5}
+        - {x: 85.5, y: -45.5}
+        - {x: 85.5, y: -24.5}
+        - {x: 78.5, y: -24.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
